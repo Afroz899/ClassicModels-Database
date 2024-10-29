@@ -1,4 +1,4 @@
-**Project Overview**
+## Project Overview
 This project involves creating a robust relational database for ClassicModels,
 a company dealing with sales and distribution of high-quality car, bike, plane, and train models.
 This SQL database organizes data efficiently, covering office locations, employees, customer details, orders, product lines, and payment records.
@@ -14,7 +14,7 @@ ProductLines and Products: Classification of products into categories.
 Payments: Payment transactions for customer orders.
 
 
-## Database Schema
+**Database Schema**
  ## The database schema includes:
 
 Offices: Stores office locations.
